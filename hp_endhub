@@ -1,0 +1,6 @@
+Config = {
+    namescript = "HP_END Hub",
+    logoscript = "79118498874945",
+    tacgia = "HProblox"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
